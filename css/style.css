@@ -1,0 +1,64 @@
+.google_logo {
+  display: flex;
+  justify-content: center;
+}
+
+.search {
+  display: block;
+  margin: 0 auto;
+  background-color: #eeeeee;
+  width: 90%;
+  height: 62.4px;
+  text-align: center;
+  padding-bottom: 0px;
+  box-sizing: border-box;
+}
+.search p {
+  margin: 0px;
+  text-align: center;
+}
+#search-bar {
+  display: block;
+  margin: 0 auto;
+}
+.box {
+  display: flex;
+  margin: 0 auto;
+  width: 90%;
+}
+.box1 {
+  float: left;
+  width: 37%;
+  background-color: rgb(126, 229, 218);
+  height: 76.4px;
+  margin: 2px 1px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 16px;
+  padding-top: 10px;
+}
+.box2 {
+  float: left;
+  width: 19%;
+  background-color: rgb(112, 204, 194);
+  height: 76.4px;
+  margin: 2px 1px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 13px;
+  padding-top: 5px;
+}
+.box3 {
+  float: left;
+  width: 43.56%;
+  background-color: rgb(98, 179, 170);
+  height: 76.4px;
+  margin: 2px 1px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 13px;
+}
+footer p {
+  text-align: center;
+  font-size: 13px;
+}
